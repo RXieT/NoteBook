@@ -74,9 +74,23 @@
               "icon": "lucide-file",
               "title": "日记 260729"
             }
+          },
+          {
+            "id": "7eb3fcbcedac7abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "随笔 260730 3时13分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随笔 260730 3时13分"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -224,10 +238,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "60dddbf9ddda7669",
+  "active": "7eb3fcbcedac7abe",
   "lastOpenFiles": [
-    "美图/可爱香香.jpg",
     "日记/26/07/日记 260729.md",
+    "随笔 260730 3时13分.md",
+    "随笔 260730 3时13分",
+    "美图/可爱香香.jpg",
     "随笔/26/07/随笔 260729 7时32分.md",
     "随笔/26/07/随笔 260729 6时3分.md",
     "美图/顶级可爱的迷迭香酱.md",
@@ -242,7 +258,6 @@
     "日记/26",
     "随笔/26/07",
     "随笔/26",
-    "日记",
-    "随笔"
+    "日记"
   ]
 }
